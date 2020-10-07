@@ -6,3 +6,4 @@ Currently will save and update database with the latest novel updates on front p
 
 Database should save a table of novels, and every time scraper is called, the table will be updated.
 
+needs to have good front end integration and second table to keep track of user's bookmarked novels
